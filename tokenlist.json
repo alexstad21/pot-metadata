@@ -1,0 +1,19 @@
+{
+  "name": "Proof of Travel Token List",
+  "timestamp": "2026-02-11T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x785738D044BD7A46D451D8099f704d35636E535f",
+      "name": "AERO",
+      "symbol": "AERO",
+      "decimals": 18,
+      "logoURI": "https://t-office.t-solution.com.au/images/pot/aero-logo.png"
+    }
+  ]
+}
